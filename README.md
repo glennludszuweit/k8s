@@ -1,0 +1,1 @@
+# install minkube and kubectl
